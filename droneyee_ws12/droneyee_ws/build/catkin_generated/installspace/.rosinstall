@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nvidia/droneyee_ws/install/setup.sh
