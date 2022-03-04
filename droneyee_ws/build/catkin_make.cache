@@ -1,0 +1,2 @@
+rflysim_udp_picture_rec_topic_pub_rospkg
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/droneyee_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/droneyee_ws/install -G Unix Makefiles
