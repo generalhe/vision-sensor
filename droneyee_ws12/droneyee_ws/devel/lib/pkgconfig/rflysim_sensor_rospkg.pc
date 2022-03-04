@@ -1,8 +1,0 @@
-prefix=/home/nvidia/droneyee_ws/devel
-
-Name: rflysim_sensor_rospkg
-Description: Description of rflysim_sensor_rospkg
-Version: 0.0.0
-Cflags: -I/home/nvidia/droneyee_ws/devel/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime
